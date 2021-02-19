@@ -1,1 +1,2 @@
-# Intereses_cuenta_Twitter_Grado2
+# Extracción de los intereses de una cuenta de Twitter hasta 2º grado
+Este código se desarrolló para descargar los datos de las cuentas que sigue Vox y las cuentas que siguen las cuentas seguidas por Vox. De esta manera se obtendrian los intereses de la cuenta de Vox en Twitter hasta segundo grado. El mismo código es aplicable para cualquier otra cuenta para obtener un grafo y asi analizar y conocer estos intereses de las cuentas que sigue la principal.
